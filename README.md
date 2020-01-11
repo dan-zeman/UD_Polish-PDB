@@ -63,6 +63,11 @@ We would like to thank all of the contributors of the original Polish Dependency
 
 # Changelog
 
+* 2020-01-11 **IWPT Shared Task Data**
+  * Enhanced graph: Added case information to oblique relations.
+  * Enhanced graph: Added external subjects of open clausal complements.
+  * Enhanced graph: Transformed relations between relative clauses and modified nouns.
+  * Enhanced graph: Added empty nodes representing elided predicates.
 * 2019-11-15 v2.5
   * Duplicate sentences are removed.
   * The treebank is divided anew into train, test and dev subsets.
