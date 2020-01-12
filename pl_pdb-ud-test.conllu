@@ -10012,10 +10012,10 @@
 10	a	a	CCONJ	conj	_	17	cc	17:cc	_
 11	jego	on	PRON	ppron3:sg:gen:m3:ter:akc:npraep	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing|Person=3|PrepCase=Npr|PronType=Prs|Variant=Long	12	nmod:arg	12:nmod:arg:gen	_
 12	wielokrotność	wielokrotność	NOUN	subst:sg:nom:f	Case=Nom|Gender=Fem|Number=Sing	17	nsubj	17:nsubj	_
-13	(	(	PUNCT	interp	PunctSide=Ini|PunctType=Brck	15	punct	14:punct	SpaceAfter=No
-14	-	-	SYM	interp	_	15	punct	12:nmod	SpaceAfter=No
-15	-	-	SYM	interp	_	12	nmod	14:fixed	SpaceAfter=No
-16	)	)	PUNCT	interp	PunctSide=Fin|PunctType=Brck	15	punct	14:punct	_
+13	(	(	PUNCT	interp	PunctSide=Ini|PunctType=Brck	14	punct	14:punct	SpaceAfter=No
+14	-	-	SYM	interp	_	12	nmod	12:nmod	SpaceAfter=No
+15	-	-	SYM	interp	_	14	fixed	14:fixed	SpaceAfter=No
+16	)	)	PUNCT	interp	PunctSide=Fin|PunctType=Brck	14	punct	14:punct	_
 17	wyraża	wyrażać	VERB	fin:sg:ter:imperf	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	4	conj	0:root|4:conj	_
 18	nasilenie	nasilić	NOUN	ger:sg:acc:n:perf:aff	Aspect=Perf|Case=Acc|Gender=Neut|Number=Sing|Polarity=Pos|VerbForm=Vnoun	17	obj	17:obj	_
 19	tendencji	tendencja	NOUN	subst:pl:gen:f	Case=Gen|Gender=Fem|Number=Plur	18	obl:arg	18:obl:arg:gen	_

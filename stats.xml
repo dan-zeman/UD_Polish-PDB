@@ -148,7 +148,7 @@
     <dep name="aux:imp">54</dep>
     <dep name="aux:pass">1399</dep>
     <dep name="case">36086</dep>
-    <dep name="cc">10392</dep>
+    <dep name="cc">10393</dep>
     <dep name="cc:preconj">273</dep>
     <dep name="ccomp">2313</dep>
     <dep name="ccomp:cleft">235</dep>
@@ -165,7 +165,7 @@
     <dep name="discourse:emo">8</dep>
     <dep name="discourse:intj">98</dep>
     <dep name="expl:pv">6157</dep>
-    <dep name="fixed">3848</dep>
+    <dep name="fixed">3849</dep>
     <dep name="flat">2726</dep>
     <dep name="flat:foreign">35</dep>
     <dep name="iobj">6576</dep>
@@ -190,7 +190,7 @@
     <dep name="orphan">82</dep>
     <dep name="parataxis:insert">2225</dep>
     <dep name="parataxis:obj">2106</dep>
-    <dep name="punct">57905</dep>
+    <dep name="punct">57903</dep>
     <dep name="root">22152</dep>
     <dep name="vocative">275</dep>
     <dep name="xcomp">4613</dep>
