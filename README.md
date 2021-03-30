@@ -63,6 +63,8 @@ We would like to thank all of the contributors of the original Polish Dependency
 
 # Changelog
 
+* 2021-03-30 **IWPT Shared Task Data**
+  * Reduced variability of deprel subtypes to increase intra-language consistency.
 * 2020-01-11 **IWPT Shared Task Data**
   * Enhanced graph: Added case information to oblique relations.
   * Enhanced graph: Added external subjects of open clausal complements.
